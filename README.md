@@ -6,7 +6,7 @@
 5. define functions
 6. input
 7. Math operators (+, -, *, /, %)
-8. if, conditions
+8. if, conditions, blocks
 
 # Lesson 1-2 examples
 1. print hello world
