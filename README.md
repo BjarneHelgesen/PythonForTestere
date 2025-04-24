@@ -1,4 +1,4 @@
-# Lesson 1-2 curriculum
+# Lesson 1 curriculum
 1. Syntax check, case sensitivity, running, debugging 
 2. print
 3. Basic built-in types (int, float, string, bool) 
@@ -8,7 +8,7 @@
 7. Math operators (+, -, *, /, %)
 8. if, conditions, blocks
 
-# Lesson 1-2 examples
+# Lesson 1 examples
 1. print hello world
 2. simple maths with variables
 3. hello world function
@@ -16,3 +16,6 @@
 5. unit testing add function, beware or rounding errors
 6. calculator function
 7. unit testing calculator function
+
+# Lesson 1 exercise
+1. Create function to concert from miles to km with unit tests and user input
