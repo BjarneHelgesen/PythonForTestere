@@ -21,20 +21,21 @@
 1. Create function to convert from miles to km with unit tests and user input
 
 # Lesson 2-3 curriculum
-1. lists
+1. lists [] 
 2. for loops
-3. while loops
-4. use of modulus
-5. \r\n
+3. while loops 
+4. use of modulus 
+5. "\r\n", + and * operator on strings
 6. Test driven development (TDD)
 
+   
 # Lesson 2-3 examples
 1. Define and print lists
 2. for loop over lists
 3. range
-5. TDD: Add elements to lists (get squares)
-6. while loop (valid input), do while (exit)
-7. Multiline strings
+4. TDD: Add elements to lists (get squares)
+5. while loop (valid input), do while (exit)
+6. Concatenation and multiline strings
 
 # Lesson 2-3 exercises
 1. Catergorize people by age.
