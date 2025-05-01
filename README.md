@@ -18,4 +18,22 @@
 7. unit testing calculator function
 
 # Lesson 1 exercise
-1. Create function to concert from miles to km with unit tests and user input
+1. Create function to convert from miles to km with unit tests and user input
+
+# Lesson 2 curriculum
+1. lists [] 
+2. for loops
+3. while loops 
+4. 6. Test driven development (TDD)
+
+# Lesson 2 examples
+1. Define and print lists
+2. for loop over lists
+3. range
+4. TDD: Add elements to lists (get squares)
+5. while loop (valid input)
+6. String concatenation
+
+# Lesson 2 exercise
+1. Catergorize people by age.
+
