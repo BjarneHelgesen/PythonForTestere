@@ -37,3 +37,15 @@
 # Lesson 2 exercise
 1. Catergorize people by age.
 
+# Lesson 3-4 curriculum
+1. use of modulus
+2. "\n"
+3. + and * operators on strings
+
+# Lesson 3-4 examples
+1. Format address (Multiline strings, decorator stars) 
+
+# Lesson 3-4 exercises
+1. Get the odd numbers from a list.
+2. Calculate compound interest, given initial value, interest per year and number of years 
+3. Draw christmas tree
