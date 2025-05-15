@@ -37,15 +37,40 @@
 # Lesson 2 exercise
 1. Catergorize people by age.
 
-# Lesson 3-4 curriculum
+# Lesson 3 curriculum
 1. use of modulus
-2. "\n"
-3. + and * operators on strings
 
-# Lesson 3-4 examples
-1. Format address (Multiline strings, decorator stars) 
+# Lesson 3 examples
+1. modulus function
 
-# Lesson 3-4 exercises
+# Lesson 3 exercises
 1. Get the odd numbers from a list.
 2. Calculate compound interest, given initial value, interest per year and number of years 
-3. Draw christmas tree
+
+# Lesson 4 curriculum 
+1. "\n"
+2. + and * operators on strings
+3. import and handling of rounding errors
+
+# Lesson 4 examples
+1. String methods 
+
+# Lesson 4 exercises
+1. Draw christmas tree
+
+
+# Lesson 5 curriculum
+1. Dictionaries
+2. REST APIs 
+
+# Lesson 5 examples
+1. Age lookup (dictionary)
+2. REST api call
+
+# Lesson 5 exercises
+1. Sum of ages
+
+# Lesson 6 exercises
+1. Call REST apis for IP addresses, words and universities
+
+
