@@ -1,0 +1,13 @@
+
+#Input 
+#WMP ProgID = "WMPlayer.OCX"
+
+media = wmp.newMedia(media_path)
+wmp.currentPlaylist.appendItem(media)
+
+
+wmp.currentPlaylist.clear()
+wmp.controls.play()
+wmp.controls.pause()
+wmp.controls.stop()
+
